@@ -1,0 +1,10 @@
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Properties.Resources.resources
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.SalaryCalculator.resources
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.GenerateResource.cache
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+C:\Users\kiara\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
